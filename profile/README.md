@@ -1,7 +1,7 @@
 # Betaflight Blackbox Viewer – Анализ полётов и логов квадрокоптера  
 
 <div align="center">  
-<img src="https://www.betaflight.com/assets/images/blackbox-screenshot-1-e8b1ba832d2041b8128bfba74a5a1688.jpg" alt="Betaflight Blackbox Viewer Логотип" width="256" height="256">  
+<img src="https://www.betaflight.com/assets/images/blackbox-screenshot-1-e8b1ba832d2041b8128bfba74a5a1688.jpg" alt="Betaflight Blackbox Viewer Логотип" width="600" height="600">  
 </div>  
 
 <div align="center">  
